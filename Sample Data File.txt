@@ -1,0 +1,6 @@
+<TAG>|Pipe-delimited field names|
+
+
+<AEHeaderInfo>|Initial Receipt Date|Report Type|Reporting Source Type|Report Comments
+<PatientInfo>|Patient Name|Patient Initials |Address|Phone Number |Gender|Date Of Birth
+<ClinicalStudyInfo>|Study ID
